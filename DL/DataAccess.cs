@@ -17,12 +17,7 @@ namespace Group14_PRG282_ProjectMilestone2.DL
     class DataAccess
     {
 
-        DataBase db1 = new DataBase();
 
-        public void createdb()
-        {
-            db1.createDB();
-        }
         public DataTable readdb ()
         {
             SqlConnection myConn = new SqlConnection("Data Source=(local);Initial Catalog=UniversityDB;Integrated Security=SSPI");
@@ -337,21 +332,6 @@ namespace Group14_PRG282_ProjectMilestone2.DL
 
 
             return dt1;
-        }
-
-        public string dropdb() 
-        {
-            string msg = "";
-            SqlConnection myConn = new SqlConnection("Data Source=(local);Initial Catalog=master;Integrated Security=SSPI");
-            string dropdb = "USE master\n\nIF EXISTS (SELECT name FROM master.dbo.sysdatabases WHERE name = 'UniversityDB')\nBEGIN\n ALTER DATABASE UniversityDB set single_user with rollback immediate\n\nDROP DATABASE IF EXISTS UniversityDB\n END";
-
-
-            myConn.Open();
-            SqlCommand dropcommand = new SqlCommand(dropdb, myConn);
-            dropcommand.ExecuteNonQuery();
-            msg = "Database removed";
-            myConn.Close();
-            return msg;
         }
 
         public void Insert(string fileName, byte[] image)
