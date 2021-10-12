@@ -207,7 +207,7 @@ namespace Group14_PRG282_ProjectMilestone2.DL
         }
         public DataTable srvhtbl(string studnum)
         {
-            //Fix this and the search for mods search code so that errors do not occur.
+           
             string srchbystudnum = "SELECT tblStudents.Student_Number AS 'Student Number', tblStudents.Name_Surname  AS 'Student Name and Surname',tblStudents.DOB  AS 'Student DOB',tblStudents.Phone  AS 'Student Phone Number',tblStudents.Address  AS 'Student Address',tblStudents.Gender  AS 'Student Gender',tblStudents.Module_Codes  AS 'Student Modules', tblPictures.IMG  AS 'Student Image'" +
                 "FROM tblStudents INNER JOIN tblPictures ON tblPictures.pic_id = tblStudents.StudPicID " +
                 "WHERE tblStudents.Student_Number =" + Convert.ToString(studnum);
@@ -285,7 +285,7 @@ namespace Group14_PRG282_ProjectMilestone2.DL
         }
         public DataTable deltbl_mods(string module_code)
         {
-            //Have it update the student table as well with the revelant infor to show that the module does not exist. And then redisplay student
+           
             string delbymodcode = "DELETE FROM tblModules " + "WHERE Module_Code =" + Convert.ToString(module_code);
 
             SqlConnection myConn = new SqlConnection("Data Source=(local);Initial Catalog=UniversityDB;Integrated Security=SSPI");
