@@ -15,7 +15,6 @@ namespace Group14_PRG282_ProjectMilestone2.PL
 {
     public partial class Studentsfrm : Form
     {
-        BindingSource picsbs = new BindingSource();
         Business_Logic blg1 = new Business_Logic();
         validation val = new validation();
 
@@ -31,7 +30,6 @@ namespace Group14_PRG282_ProjectMilestone2.PL
             DElBtn.Hide();
             UPbtn.Hide();
             StudNumtb.Hide();
-            //StudentsDGV.Columns[7].Visible = false;
             StudentsDGV.DataSource = null;
             StudentsDGV.DataSource = blg1.readtbl();
         }
@@ -93,7 +91,6 @@ namespace Group14_PRG282_ProjectMilestone2.PL
                     StudentsDGV.DataSource = null;
                     StudentsDGV.DataSource = blg1.delete(studnum);
 
-                    //add a delete pics ,ethdo to delete command to delete the pic after the user is deleted.
                     label2.Hide();
                     label13.Hide();
                     StudNumtb.Hide();
@@ -154,8 +151,7 @@ namespace Group14_PRG282_ProjectMilestone2.PL
                 if (result == DialogResult.Yes)
                 {
                     StudentsDGV.DataSource = null;
-             
-                    //add an update delete for the picture table to delete and insert a new pic.
+            
                     StudentsDGV.DataSource = blg1.update(studname_surname, justdate, phone, address, gender, modulescodes, studnum, filenametxt.Text, blg1.ConvertImageToBytes(pictureBox1.Image));
 
                     label2.Hide();
@@ -240,8 +236,6 @@ namespace Group14_PRG282_ProjectMilestone2.PL
                 {
                     pictureBox1.Image = Image.FromFile(ofd.FileName);
                     filenametxt.Text = ofd.FileName;
-                    picsbs.DataSource = null;
-                    picsbs.DataSource = blg1.LoadData();
                 }
             }
         }
