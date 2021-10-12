@@ -1,0 +1,88 @@
+D:\Belgium Campus\Second year\PRG281\Exercises\PRG2x1 PRAC NUM2 ex\bin\Debug\PRG2x1 PRAC NUM2 ex.exe.config
+D:\Belgium Campus\Second year\PRG281\Exercises\PRG2x1 PRAC NUM2 ex\bin\Debug\PRG2x1 PRAC NUM2 ex.exe
+D:\Belgium Campus\Second year\PRG281\Exercises\PRG2x1 PRAC NUM2 ex\bin\Debug\PRG2x1 PRAC NUM2 ex.pdb
+D:\Belgium Campus\Second year\PRG281\Exercises\PRG2x1 PRAC NUM2 ex\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.AssemblyReference.cache
+D:\Belgium Campus\Second year\PRG281\Exercises\PRG2x1 PRAC NUM2 ex\obj\Debug\PRG2x1_PRAC_NUM2_ex.Form1.resources
+D:\Belgium Campus\Second year\PRG281\Exercises\PRG2x1 PRAC NUM2 ex\obj\Debug\PRG2x1_PRAC_NUM2_ex.Properties.Resources.resources
+D:\Belgium Campus\Second year\PRG281\Exercises\PRG2x1 PRAC NUM2 ex\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.GenerateResource.cache
+D:\Belgium Campus\Second year\PRG281\Exercises\PRG2x1 PRAC NUM2 ex\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.CoreCompileInputs.cache
+D:\Belgium Campus\Second year\PRG281\Exercises\PRG2x1 PRAC NUM2 ex\obj\Debug\PRG2x1 PRAC NUM2 ex.exe
+D:\Belgium Campus\Second year\PRG281\Exercises\PRG2x1 PRAC NUM2 ex\obj\Debug\PRG2x1 PRAC NUM2 ex.pdb
+D:\Belgium Campus\Second year\PRG281\Exercises\PRG2x1 PRAC NUM2 ex\obj\Debug\PRG2x1_PRAC_NUM2_ex.Login.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\PRG2x1 PRAC NUM2 ex - Copy\bin\Debug\PRG2x1 PRAC NUM2 ex.exe.config
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\PRG2x1 PRAC NUM2 ex - Copy\bin\Debug\PRG2x1 PRAC NUM2 ex.exe
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\PRG2x1 PRAC NUM2 ex - Copy\bin\Debug\PRG2x1 PRAC NUM2 ex.pdb
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\PRG2x1 PRAC NUM2 ex - Copy\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.AssemblyReference.cache
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\PRG2x1 PRAC NUM2 ex - Copy\obj\Debug\PRG2x1_PRAC_NUM2_ex.Properties.Resources.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\PRG2x1 PRAC NUM2 ex - Copy\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.GenerateResource.cache
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\PRG2x1 PRAC NUM2 ex - Copy\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.CoreCompileInputs.cache
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\PRG2x1 PRAC NUM2 ex - Copy\obj\Debug\PRG2x1 PRAC NUM2 ex.exe
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\PRG2x1 PRAC NUM2 ex - Copy\obj\Debug\PRG2x1 PRAC NUM2 ex.pdb
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\PRG2x1 PRAC NUM2 ex - Copy\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Form1.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\PRG2x1 PRAC NUM2 ex - Copy\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Login.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project\bin\Debug\PRG2x1 PRAC NUM2 ex.exe.config
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project\bin\Debug\PRG2x1 PRAC NUM2 ex.exe
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project\bin\Debug\PRG2x1 PRAC NUM2 ex.pdb
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.AssemblyReference.cache
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Form1.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Login.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Registercs.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project\obj\Debug\PRG2x1_PRAC_NUM2_ex.Properties.Resources.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.GenerateResource.cache
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.CoreCompileInputs.cache
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project\obj\Debug\PRG2x1 PRAC NUM2 ex.exe
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project\obj\Debug\PRG2x1 PRAC NUM2 ex.pdb
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc\bin\Debug\PRG2x1 PRAC NUM2 ex.exe.config
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc\bin\Debug\PRG2x1 PRAC NUM2 ex.exe
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc\bin\Debug\PRG2x1 PRAC NUM2 ex.pdb
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.AssemblyReference.cache
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Form1.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Login.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Registercs.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc\obj\Debug\PRG2x1_PRAC_NUM2_ex.Properties.Resources.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.GenerateResource.cache
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.CoreCompileInputs.cache
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc\obj\Debug\PRG2x1 PRAC NUM2 ex.exe
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc\obj\Debug\PRG2x1 PRAC NUM2 ex.pdb
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc For Image Integration\bin\Debug\PRG2x1 PRAC NUM2 ex.exe.config
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc For Image Integration\bin\Debug\PRG2x1 PRAC NUM2 ex.exe
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc For Image Integration\bin\Debug\PRG2x1 PRAC NUM2 ex.pdb
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.AssemblyReference.cache
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Login.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Registercs.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1_PRAC_NUM2_ex.Properties.Resources.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.GenerateResource.cache
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.CoreCompileInputs.cache
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1 PRAC NUM2 ex.exe
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1 PRAC NUM2 ex.pdb
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Studentsfrm.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Main_Menu.resources
+D:\Belgium Campus\Second year\PRG282\Testing for Proj\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Modulesfrm.resources
+C:\Users\oljoh\Desktop\Testing Code for Project - CopyRestruc For Image Integration\bin\Debug\PRG2x1 PRAC NUM2 ex.exe.config
+C:\Users\oljoh\Desktop\Testing Code for Project - CopyRestruc For Image Integration\bin\Debug\PRG2x1 PRAC NUM2 ex.exe
+C:\Users\oljoh\Desktop\Testing Code for Project - CopyRestruc For Image Integration\bin\Debug\PRG2x1 PRAC NUM2 ex.pdb
+C:\Users\oljoh\Desktop\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.AssemblyReference.cache
+C:\Users\oljoh\Desktop\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Studentsfrm.resources
+C:\Users\oljoh\Desktop\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Login.resources
+C:\Users\oljoh\Desktop\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Main_Menu.resources
+C:\Users\oljoh\Desktop\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Modulesfrm.resources
+C:\Users\oljoh\Desktop\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Registercs.resources
+C:\Users\oljoh\Desktop\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1_PRAC_NUM2_ex.Properties.Resources.resources
+C:\Users\oljoh\Desktop\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.GenerateResource.cache
+C:\Users\oljoh\Desktop\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.CoreCompileInputs.cache
+C:\Users\oljoh\Desktop\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1 PRAC NUM2 ex.exe
+C:\Users\oljoh\Desktop\Testing Code for Project - CopyRestruc For Image Integration\obj\Debug\PRG2x1 PRAC NUM2 ex.pdb
+D:\Belgium Campus\Second year\PRG282\ProjectsAssignments\Project + UI\Project + UI\bin\Debug\PRG2x1 PRAC NUM2 ex.exe.config
+D:\Belgium Campus\Second year\PRG282\ProjectsAssignments\Project + UI\Project + UI\bin\Debug\PRG2x1 PRAC NUM2 ex.exe
+D:\Belgium Campus\Second year\PRG282\ProjectsAssignments\Project + UI\Project + UI\bin\Debug\PRG2x1 PRAC NUM2 ex.pdb
+D:\Belgium Campus\Second year\PRG282\ProjectsAssignments\Project + UI\Project + UI\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.AssemblyReference.cache
+D:\Belgium Campus\Second year\PRG282\ProjectsAssignments\Project + UI\Project + UI\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Studentsfrm.resources
+D:\Belgium Campus\Second year\PRG282\ProjectsAssignments\Project + UI\Project + UI\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Login.resources
+D:\Belgium Campus\Second year\PRG282\ProjectsAssignments\Project + UI\Project + UI\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Main_Menu.resources
+D:\Belgium Campus\Second year\PRG282\ProjectsAssignments\Project + UI\Project + UI\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Modulesfrm.resources
+D:\Belgium Campus\Second year\PRG282\ProjectsAssignments\Project + UI\Project + UI\obj\Debug\PRG2x1_PRAC_NUM2_ex.PL.Registercs.resources
+D:\Belgium Campus\Second year\PRG282\ProjectsAssignments\Project + UI\Project + UI\obj\Debug\PRG2x1_PRAC_NUM2_ex.Properties.Resources.resources
+D:\Belgium Campus\Second year\PRG282\ProjectsAssignments\Project + UI\Project + UI\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.GenerateResource.cache
+D:\Belgium Campus\Second year\PRG282\ProjectsAssignments\Project + UI\Project + UI\obj\Debug\PRG2x1 PRAC NUM2 ex.csproj.CoreCompileInputs.cache
+D:\Belgium Campus\Second year\PRG282\ProjectsAssignments\Project + UI\Project + UI\obj\Debug\PRG2x1 PRAC NUM2 ex.exe
+D:\Belgium Campus\Second year\PRG282\ProjectsAssignments\Project + UI\Project + UI\obj\Debug\PRG2x1 PRAC NUM2 ex.pdb
