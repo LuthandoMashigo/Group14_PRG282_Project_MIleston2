@@ -16,7 +16,7 @@ namespace Group14_PRG282_ProjectMilestone2.BL
         DataAccess dac1 = new DataAccess();
         DataTable dt = new DataTable();
         DataTable dt2 = new DataTable();
-        DataTable dt3 = new DataTable();
+
         DataTable dt4 = new DataTable();
 
         public void insertpic(string fileName, byte[] image)
@@ -40,16 +40,7 @@ namespace Group14_PRG282_ProjectMilestone2.BL
             return dac1.ConvertByteArrayToImage(data);
         }
 
-        public void db_tbl_create()
-        {
-            dac1.createdb();
-        }
-        public string dropdb()
-        {
-            string msg = "";
-            msg = dac1.dropdb();
-            return msg;
-        }
+
         public DataTable insrt(string studname_surname, string dob, string phone, string address, string gender, string mod_codes, string fileName, byte[] image)
         {
 
@@ -133,13 +124,7 @@ namespace Group14_PRG282_ProjectMilestone2.BL
             return dt2;
         }
 
-        public DataTable readtbl3()
-        {
-            dt3.Clear();
-            dt3 = dac1.readdb3();
-
-            return dt3;
-        }
+     
 
     }
 }
