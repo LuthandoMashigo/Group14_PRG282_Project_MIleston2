@@ -167,8 +167,7 @@ namespace Group14_PRG282_ProjectMilestone2.DL
                 "\nEND", myConn);
                 checkifmodexistthheninsrt.ExecuteNonQuery();
             }
-            //Add correct modcodes to student modcode field once update is complete
-            //.....code goes here
+
             
             SqlCommand selecomm = new SqlCommand("EXEC displayprocStudents", myConn);
             selecomm.ExecuteNonQuery();
