@@ -51,17 +51,9 @@ namespace Group14_PRG282_ProjectMilestone2.PL
         private void regbtn_Click(object sender, EventArgs e)
         {
             SendKeys.Send("Enter");
-           // DialogResult res;
             if (blgf1.reguser(usernametb.Text, passwordtb.Text) == false)
             {
                 MessageBox.Show("User Added ","Registration");
-                
-                //Login logfrm = new Login(usernametb.Text, passwordtb.Text);
-                //logfrm.Show();
-                //this.Hide();
-
-                
-
             }
             else if (blgf1.reguser(usernametb.Text, passwordtb.Text) == true)
             {
